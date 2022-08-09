@@ -82,10 +82,10 @@ xmp{
     width: 100%;
    } 
    .container{
-    width: 70%;
+    width: 100%;
    }
   .item{
-    width: 90%;
+    width: 100%;
   }
   .item{
     grid-template-columns: 70%;
