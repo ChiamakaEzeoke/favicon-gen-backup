@@ -96,7 +96,7 @@ xmp{
     margin: auto;
 }
     xmp{
-        width: 100%;
+        max-width: 100%;
     }
 }
 
