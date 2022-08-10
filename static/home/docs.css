@@ -95,6 +95,9 @@ xmp{
     display: grid;
     margin: auto;
 }
+    xmp{
+        width: 100%;
+    }
 }
 
 /*Main Content End*/
